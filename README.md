@@ -1,7 +1,7 @@
 # Medicare-Inpatient-Outpatient-Hospitals
 Medicare Inpatient &amp; Outpatient Healthcare Analytics Exploratory data analysis of CMS Medicare inpatient and outpatient datasets to identify cost patterns, provider-level variation, DRG/service-level outliers, and regional trends using Python, Pandas, statistical analysis, and visualization.
 
-## Projects
+## Projects 
 
 ### 1. Medicare Inpatient Hospitals — Provider & DRG Cost Analysis
 Analysis of inpatient hospital costs across MS-DRGs, including provider-level variation, cost outliers, payment gaps, regional patterns, and predictive modeling of cost drivers.
@@ -45,3 +45,8 @@ The analysis concludes with **peer-group outlier detection** and a **machine-lea
 | **5** | **Peer-Group Outlier Detection — Hospital vs. Same-Procedure Peers** |
 | **6** | **Predictive Modeling — What Actually Drives Cost vs. Pricing Behavior** |
 | **7** | **Executive Summary** |
+
+
+## PowerBI: <img width="1281" height="742" alt="image" src="https://github.com/user-attachments/assets/208da7b4-653b-4cbc-b6ce-9799bc60aef2" />
+<img width="1375" height="741" alt="image" src="https://github.com/user-attachments/assets/aa5aadfb-c770-4918-964a-1909dfd998f5" />
+<img width="1290" height="740" alt="image" src="https://github.com/user-attachments/assets/2ebc4356-e493-4910-a89e-50b9d6e1454f" />
