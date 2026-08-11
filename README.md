@@ -3,7 +3,7 @@ Medicare Inpatient &amp; Outpatient Healthcare Analytics Exploratory data analys
 
 ## Projects 
 
-### 1. Medicare Inpatient Hospitals — Provider & DRG Cost Analysis
+### 1. Medicare Inpatient Hospitals — Provider & DRG Cost Analysis 2023
 Analysis of inpatient hospital costs across MS-DRGs, including provider-level variation, cost outliers, payment gaps, regional patterns, and predictive modeling of cost drivers.
 
 ## 📑 This EDA covers following insights and steps
